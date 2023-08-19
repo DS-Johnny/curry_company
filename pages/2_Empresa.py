@@ -26,7 +26,7 @@ df1 = data_tools.clean_df(df)
 #-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-= SIDEBAR 
 #image = 'bike-delivery.png'
 #image = Image.open(image)
-st.sidebar.image(image, width=120)
+#st.sidebar.image(image, width=120)
 st.sidebar.markdown('# Cury Company')
 st.sidebar.markdown('## Fastest Delivery In Town')
 st.sidebar.markdown("""---""")
